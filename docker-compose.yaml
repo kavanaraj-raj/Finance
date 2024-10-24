@@ -7,4 +7,4 @@ services:
     volumes:
       - finance-volume:/usr/local/apache2/htdocs
 volumes:
-  finance-volume
+  finance-volume:
